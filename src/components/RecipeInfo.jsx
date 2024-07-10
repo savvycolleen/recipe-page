@@ -1,7 +1,7 @@
 export default function RecipeInfo() {
   return(
     <section>
-      <img className="recipe-info--img" src="../src/assets/images/image-omelette.jpeg" alt="omelette" width="1312" height="600" />
+      <img className="recipe-info--img" src="../public/images/image-omelette.jpeg" alt="omelette" width="1312" height="600" />
       <div className="container">
         <h1 className="recipe-info--title">Simple Omelette Recipe</h1>
         <p className="recipe-info--text">An easy and quick dish, perfect for any meal. This classic omelette combines beaten eggs cooked to perfection, optionally filled with your choice of cheese, vegetables, or meats.</p>
